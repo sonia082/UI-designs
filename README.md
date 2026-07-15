@@ -9,6 +9,14 @@ usability, and human-centered design principles. I explore responsive
 homepage designs, interactive prototypes, and visual hierarchy across 
 different project types.
 
+# UI Designs links
+
+## Files:
+- **Ald project.fig** →(https://www.figma.com/design/8XlSnroVyMXsi265jtHeJj/AId-project?node-id=0-1&p=f&t=zYWaJ0iVxEeKBSM7-0)
+- **Aid-Link.fig** → (https://www.figma.com/design/galpTTDnFWoSs9XqKKBocx/Aid-Link?t=zYWaJ0iVxEeKBSM7-0)
+- **Design.fig** → (https://www.figma.com/design/81SxBNRgTjv4w8bvPYNmuC/Design?t=zYWaJ0iVxEeKBSM7-0)
+- **Responsive Homepage.fig** →(https://www.figma.com/design/3qnOwKS1jEOIDdQxWsLQzH/Responsive-Homepage?t=zYWaJ0iVxEeKBSM7-0)
+
 ## What's Inside
 
 - 🖥️ Responsive homepage layouts
@@ -19,7 +27,7 @@ different project types.
 ## Tools Used
 
 - **Figma** — UI design & prototyping
-- **Canva** — quick visuals & graphics
+
 
 ## About Me
 
